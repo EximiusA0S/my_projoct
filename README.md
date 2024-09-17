@@ -1,1 +1,1 @@
-# my_projoct
+# my_project
